@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">Practice13</string>
-    <string name="textViewTradeCourse">Введите курс обмена</string>
-    <string name="textViewEnterSum">Введите сумму</string>
-    <string name="textViewResult">Результат:</string>
-    <string name="buttonChange">Конвертировать</string>
-
+    <string name="textViewFirstLeg">Введите первый катет</string>
+    <string name="textViewSecondLeg">Введите второй катет</string>
+    <string name="textViewArea">Площадь:</string>
+    <string name="textViewPerimeter">Периметр:</string>
+    <string name="textViewHypotenuse">Гипотенуза:</string>
+    <string name="buttonChange">Вычислить</string>
+    <string name="editTextNumberHint">Первый катет</string>
+    <string name="editTextNumber2Hint">Второй катет</string>
 
 </resources>
