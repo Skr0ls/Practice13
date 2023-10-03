@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice13</string>
+    <string name="textViewTradeCourse">Введите курс обмена</string>
+    <string name="textViewEnterSum">Введите сумму</string>
+    <string name="textViewResult">Результат:</string>
+    <string name="buttonChange">Конвертировать</string>
+
+
+</resources>
